@@ -1,1 +1,2 @@
 *.bc filter=lfs diff=lfs merge=lfs -text
+Box[[:space:]]shotter/Library/il2cpp_cache/linkresult_5126EEBF8874ED6ECD6599767EF21FA0/build.bc filter=lfs diff=lfs merge=lfs -text
